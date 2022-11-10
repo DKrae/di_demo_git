@@ -16,7 +16,7 @@
                 ],
                 "generation": 1,
                 "config": {
-                    "script": "api.send(\"output\", \"Hello World!\")"
+                    "script": "api.send(\"output\", \"New Hello World!\")"
                 },
                 "additionaloutports": [
                     {
